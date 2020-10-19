@@ -1,5 +1,5 @@
 # BitcoinJS (bitcoinjs-lib) 
-![Build Status](https://github.com/CoinSpace/bitcoinjs-lib/workflows/.github/workflows/ci.yml/badge.svg)
+![Build Status](https://github.com/CoinSpace/bitcoinjs-lib/workflows/Node.js%20CI/badge.svg)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
