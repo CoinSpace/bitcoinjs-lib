@@ -50,7 +50,7 @@ describe('address', function () {
     })
   })
 
-  describe('fromOutputScript', function () {
+  describe.skip('fromOutputScript', function () {
     fixtures.standard.forEach(function (f) {
       it('encodes ' + f.script.slice(0, 30) + '... (' + f.network + ')', function () {
         var script = bscript.fromASM(f.script)

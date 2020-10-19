@@ -8,7 +8,8 @@ jobs:
     runs-on: ubuntu-18.04
     strategy:
       matrix:
-        test-suite: [integration, unit]
+        #test-suite: [integration, unit]
+        test-suite: [unit]
         node-version: [10, 12, 14]
         include:
           - node-version: 12
